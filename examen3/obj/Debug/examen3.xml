@@ -1,0 +1,54 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+examen3
+</name>
+</assembly>
+<members>
+<member name="M:examen3.ConexionUsuario.#ctor">
+	<summary>
+ Constructor de la clase
+ </summary>
+	<remarks></remarks>
+</member><member name="M:examen3.ConexionUsuario.AbrirConexion">
+	<summary>
+ Método para abrir la conexión a la base de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="M:examen3.ConexionUsuario.CerrarConexion">
+	<summary>
+ Método para cerrar la conexión a la base de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="P:examen3.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:examen3.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:examen3.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:examen3.ConexionProducto.#ctor">
+	<summary>
+ Constructor de la clase
+ </summary>
+	<remarks></remarks>
+</member><member name="M:examen3.ConexionProducto.AbrirConexion">
+	<summary>
+ Método para abrir la conexión a la base de datos
+ </summary>
+	<remarks></remarks>
+</member><member name="M:examen3.ConexionProducto.CerrarConexion">
+	<summary>
+ Método para cerrar la conexión a la base de datos
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
